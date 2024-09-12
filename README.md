@@ -13,9 +13,8 @@ SKN2기 9월 단위프로젝트
 #  프로젝트
 
 👨‍🏫 프로젝트 개요
-(https://github.com/user-attachments/assets/a91eaab4-5ba8-45ac-bab5-4a2e688b2b0a/9ebc0c81-fa65-4032-ae00-534e0ae131c8/7c6fa5f5-793b-4619-bfc2-5a59ddbf7e68.png)
+![주식](https://github.com/user-attachments/assets/c651229c-f611-45d4-8890-a4d1f6fc447d)
 
-https://kr.investing.com/analysis/article-200439272
 
 👩‍🏫 서비스 목표
 
