@@ -6,7 +6,7 @@ SKN2기 9월 단위프로젝트
 ### :apple: 사과먹어조(GIVE ME AN APPLE)
 | 구선아 | 김진유 | 전상욱 | 이재원 | 
 |:----------:|:----------:|:----------:|:----------:|
-| <img width="120px" src=" " /> | <img width="120px" src="https://github.com/user-attachments/assets/4ae67d2a-4394-4481-98d4-266966a517a8" /> | <img width="120px" src="https://github.com/user-attachments/assets/061ea4e0-9712-48f9-9635-ac667e1afca2" /> | <img width="120px" src="https://github.com/user-attachments/assets/9543563c-6dd5-46b9-8054-4e74bea76196" /> 
+| <img width="120px" src=" " /> | <img width="120px" src="https://github.com/user-attachments/assets/4ae67d2a-4394-4481-98d4-266966a517a8" /> | <img width="120px" src="https://github.com/user-attachments/assets/061ea4e0-9712-48f9-9635-ac667e1afca2" /> | <img width="120px" src="https://github.com/user-attachments/assets/a41d4b71-85ca-4369-bda9-5cc304896c6c" /> 
 |  [@KOO](https://github.com/developer0826) | [@KIM](https://github.com/Sesame-Oil)  | [@WOOK](https://github.com/wjstkddnr) | [@LEE](https://github.com/promethevs11) |
 
 
