@@ -12,9 +12,9 @@ SKN2기 9월 단위프로젝트
 
 #  프로젝트
 
-👨‍🏫 프로젝트 개요
+# 👨‍🏫 프로젝트 개요
 
-<img width="750px" src="https://github.com/user-attachments/assets/c651229c-f611-45d4-8890-a4d1f6fc447d"/>
+
 
 
 👩‍🏫 서비스 목표
